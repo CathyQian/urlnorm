@@ -67,7 +67,7 @@ SOFTWARE.
 """
 
 # also update in setup.py
-__version__ = "1.1.2.pinterest4"
+__version__ = "1.1.2.pinterest5"
 
 from six.moves.urllib.parse import urlparse, urlunparse, unquote
 import re
